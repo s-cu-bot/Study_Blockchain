@@ -29,6 +29,6 @@
   
 </br>
 
-### ****
+### **참고**
 https://github.com/kkagill/addition-game-starter.git  
 https://truffleframework.com/boxes
